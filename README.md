@@ -1,5 +1,5 @@
 # files_histogran
-This c++ in CMAKE project reads files with ASCII carachters and print the letters histogram frequency.
+This c++ in CMAKE project reads files with ASCII characters and print the letters histogram frequency.
 
 The steps below show how to execute the code in the CMAKE project:
 
